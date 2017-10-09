@@ -18,7 +18,7 @@ Community | Manager | Members | Description
 ----------|---------|---------| ------------
 [DevCenter Square](https://devcenter-square-slack.herokuapp.com/)        |    [@Sprime 🙌](https://twitter.com/osioke)     | 2037 | A collaborative community of software development talent coming together to learn, network, and grow, while helping each other.
 [Consonance](https://consonance-invite.herokuapp.com/)        |    [@TushGeek](https://twitter.com/tushgeek)     | 300+ | Consonance is a growing community of technology enthusiasts across the Nigerian technology space, majorly in tertiary institutions.
-[Angular Nigeria](https://twitter.com/ngnigeria)        |    [@codebeast](https://twitter.com/codebeast)     | 189 | Nigeria's largest Angular community.
+
 
 ### Programming Languages and Technologies
 
@@ -28,6 +28,7 @@ Community | Manager | Members | Description
 [Python Nigeria](https://py-slack-invite.herokuapp.com/)         |    [@acetakwas 👨](https://twitter.com/acetakwas)     | 876 | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
 [Laravel Nigeria](https://www.laravelnigeria.com/)             |    [@neoighodaro](https://twitter.com/neoighodaro)    | 268 | A community of PHP and Laravel developers.
 [StayBusy](https://staybusy.ng/)                               |    [@xyluz](https://twitter.com/xyluz)   | 0 | For students of striking schools, admission seekers, self made enterpreneurs and any other interested individual. To help them use their time well.
+[Angular Nigeria](https://twitter.com/ngnigeria)        |    [@codebeast](https://twitter.com/codebeast)     | 189 | Nigeria's largest Angular community.
 
 
 ### Companies
