@@ -26,6 +26,8 @@ Community | Manager | Members | Description
 [Ionic Nigeria](https://ionic-nigeria.herokuapp.com)           |    [@mczlatan ✌](https://twitter.com/mczlatan_io)   | 4 | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
 [Python Nigeria](https://py-slack-invite.herokuapp.com/)           |    [@acetakwas 👨](https://twitter.com/acetakwas)   | 876 | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
 [Laravel Nigeria](https://www.laravelnigeria.com/)           |    [@neoighodaro](https://twitter.com/neoighodaro)    | -- | A community of PHP and Laravel developers.
+[StayBusy](https://staybusy.ng/)           |    [@xyluz](https://twitter.com/xyluz)   | 0 | For students of striking schools, admission seekers, self made enterpreneurs and any other interested individual. To help them use their time well.
+
 
 ### Companies
 
