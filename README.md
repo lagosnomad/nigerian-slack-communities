@@ -14,24 +14,27 @@ If you have any issue or suggestion, feel free to open an issue and give an appr
 
 ### Developer communities
 
-Community               |      Manager      |              Description
-------------------------|-------------------| ------------------------------------------
-[DevCenter Square](https://devcenter-square-slack.herokuapp.com/)        |    @Sprime 🙌     | A collaborative community of software development talent coming together to learn, network, and grow, while helping each other.
+Community | Manager | Members | Description
+----------|---------|---------| ------------
+[DevCenter Square](https://devcenter-square-slack.herokuapp.com/)        |    [@Sprime 🙌](https://twitter.com/osioke)     | 2037 | A collaborative community of software development talent coming together to learn, network, and grow, while helping each other.
 
 ### Programming Languages and Technologies
 
-Community               |      Manager      |              Description
-------------------------|-------------------|------------------------------------------
-[Ionic Nigeria](https://ionic-nigeria.herokuapp.com)           |    @mczlatan ✌   | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
-[Python Nigeria](https://py-slack-invite.herokuapp.com/)           |    @acetakwas 👨   | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
-[StayBusy](https://staybusy.ng/)           |    @xyluz   | For students of striking schools, admission seekers, self made enterpreneurs and any other interested individual. To help them use their time well.
+Community | Manager | Members | Description
+----------|---------|---------| ------------
+
+[Ionic Nigeria](https://ionic-nigeria.herokuapp.com)           |    [@mczlatan ✌](https://twitter.com/mczlatan_io)   | 4 | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
+[Python Nigeria](https://py-slack-invite.herokuapp.com/)           |    [@acetakwas 👨](https://twitter.com/acetakwas)   | 876 | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
+[Laravel Nigeria](https://www.laravelnigeria.com/)           |    [@neoighodaro](https://twitter.com/neoighodaro)    | -- | A community of PHP and Laravel developers.
+[StayBusy](https://staybusy.ng/)           |    [@xyluz](https://twitter.com/xyluz)   | 0 | For students of striking schools, admission seekers, self made enterpreneurs and any other interested individual. To help them use their time well.
+
 
 ### Companies
 
-Community               |      Manager      |                      Description
-------------------------|-------------------|------------------------------------------
-[Flutterwave Developers](http://bit.ly/2yRh01e)  |    @mo 👵         | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
-[Paystack Payslack](https://slack.paystack.com)       |  @ibrahimlawal 💂 | A community for businesses integrating financial technology solutions using Paystack.
+Community | Manager | Members | Description
+----------|---------|---------| ------------
+[Flutterwave Developers](http://bit.ly/2yRh01e)  |    @mo 👵         | 682 | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
+[Paystack Payslack](https://slack.paystack.com)       |  [@ibrahimlawal 💂](https://twitter.com/ibrahimlawal) | 794 | A community for businesses integrating financial technology solutions using Paystack.
 
 
 
