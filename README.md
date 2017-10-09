@@ -22,16 +22,17 @@ Community | Manager | Members | Description
 
 Community | Manager | Members | Description
 ----------|---------|---------| ------------
-[Ionic Nigeria](https://ionic-nigeria.herokuapp.com)           |    [@mczlatan ✌](https://twitter.com/mczlatan_io)   | 0 | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
-[Python Nigeria](https://py-slack-invite.herokuapp.com/)           |    [@acetakwas 👨](https://twitter.com/acetakwas)   | 0 | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
-[Laravel Nigeria](https://www.laravelnigeria.com/)           |    [@neoighodaro](https://twitter.com/neoighodaro)    | 0 | A community of PHP and Laravel developers.
+
+[Ionic Nigeria](https://ionic-nigeria.herokuapp.com)           |    [@mczlatan ✌](https://twitter.com/mczlatan_io)   | 4 | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
+[Python Nigeria](https://py-slack-invite.herokuapp.com/)           |    [@acetakwas 👨](https://twitter.com/acetakwas)   | 876 | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
+[Laravel Nigeria](https://www.laravelnigeria.com/)           |    [@neoighodaro](https://twitter.com/neoighodaro)    | -- | A community of PHP and Laravel developers.
 
 ### Companies
 
 Community | Manager | Members | Description
 ----------|---------|---------| ------------
-[Flutterwave Developers](http://bit.ly/2yRh01e)  |    @mo 👵         | 0 | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
-[Paystack Payslack](https://slack.paystack.com)       |  [@ibrahimlawal 💂](https://twitter.com/ibrahimlawal) | 0 | A community for businesses integrating financial technology solutions using Paystack.
+[Flutterwave Developers](http://bit.ly/2yRh01e)  |    @mo 👵         | 682 | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
+[Paystack Payslack](https://slack.paystack.com)       |  [@ibrahimlawal 💂](https://twitter.com/ibrahimlawal) | 794 | A community for businesses integrating financial technology solutions using Paystack.
 
 
 
