@@ -24,6 +24,7 @@ Community               |      Manager      |              Description
 ------------------------|-------------------|------------------------------------------
 [Ionic Nigeria](https://ionic-nigeria.herokuapp.com)           |    @mczlatan ✌   | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
 [Python Nigeria](https://py-slack-invite.herokuapp.com/)           |    @acetakwas 👨   | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
+[StayBusy](https://staybusy.ng/)           |    @xyluz   | For students of striking schools, admission seekers, self made enterpreneurs and any other interested individual.We will connect you to mentors, schools, give you scholarship and make your time worth while. Our purpose is to help the Nigerian youth use their time wisely..
 
 ### Companies
 
