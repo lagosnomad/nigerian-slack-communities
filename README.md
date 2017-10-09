@@ -14,24 +14,23 @@ If you have any issue or suggestion, feel free to open an issue and give an appr
 
 Community               |      Manager      |              Description
 ------------------------|-------------------| ------------------------------------------
-Devcenter Square        |    @Sprime 🙌     | A collaborative community of software development talent coming together to learn, network, and grow, while helping each other.
+[DevCenter Square](https://devcenter-square-slack.herokuapp.com/)        |    @Sprime 🙌     | A collaborative community of software development talent coming together to learn, network, and grow, while helping each other.
 
 ### Programming Languages and Technologies
 
 Community               |      Manager      |              Description
 ------------------------|-------------------|------------------------------------------
-Ionic Nigeria           |    @mczlatan ✌   | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask tecnical questions, share knowledge.
+[Ionic Nigeria](ionic-nigeria.herokuapp.com)           |    @mczlatan ✌   | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask tecnical questions, share knowledge.
 
 ### Companies
 
 Community               |      Manager      |                      Description
 ------------------------|-------------------|------------------------------------------
-Flutterwave Developers  |    @mo 👵         | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
-Paystack Payslack       |  @ibrahimlawal 💂 | A community for businesses integrating financial technology solutions using Paystack
+[Flutterwave Developers](http://bit.ly/2yRh01e)  |    @mo 👵         | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
+[Paystack Payslack](https://slack.paystack.com)       |  @ibrahimlawal 💂 | A community for businesses integrating financial technology solutions using Paystack
 
 
 
-[DevCenter Square(https://devcenter-square-slack.herokuapp.com/)
-[Ionic Nigeria](ionic-nigeria.herokuapp.com)
-[Flutterwave Developers](http://bit.ly/2yRh01e)
-[Paystack Payslack](https://slack.paystack.com)
+
+
+
