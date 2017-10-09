@@ -20,7 +20,7 @@ Community               |      Manager      |              Description
 
 Community               |      Manager      |              Description
 ------------------------|-------------------|------------------------------------------
-[Ionic Nigeria](ionic-nigeria.herokuapp.com)           |    @mczlatan ✌   | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask tecnical questions, share knowledge.
+[Ionic Nigeria](https://ionic-nigeria.herokuapp.com)           |    @mczlatan ✌   | A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask tecnical questions, share knowledge.
 [Python Nigeria](https://py-slack-invite.herokuapp.com/)           |    @acetakwas 👨   | We are a community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
 
 ### Companies
