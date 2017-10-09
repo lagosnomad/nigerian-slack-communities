@@ -17,6 +17,7 @@ If you have any issue or suggestion, feel free to open an issue and give an appr
 Community | Manager | Members | Description
 ----------|---------|---------| ------------
 [DevCenter Square](https://devcenter-square-slack.herokuapp.com/)        |    [@Sprime 🙌](https://twitter.com/osioke)     | 2037 | A collaborative community of software development talent coming together to learn, network, and grow, while helping each other.
+[Consonance](https://consonance-invite.herokuapp.com/)        |    [@TushGeek](https://twitter.com/tushgeek)     | 300+ | Consonance is a growing community of technology enthusiasts across the Nigerian technology space, majorly in tertiary institutions.
 
 ### Programming Languages and Technologies
 
