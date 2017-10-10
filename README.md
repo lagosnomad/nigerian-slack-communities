@@ -19,6 +19,8 @@ Community | Manager | Members | Description
 [DevCenter Square](https://devcenter-square-slack.herokuapp.com/)        |    [@Sprime 🙌](https://twitter.com/osioke)     | 2037 | A collaborative community of software development talent coming together to learn, network, and grow, while helping each other.
 [Consonance](https://consonance-invite.herokuapp.com/)        |    [@TushGeek](https://twitter.com/tushgeek)     | 300+ | Consonance is a growing community of technology enthusiasts across the Nigerian technology space, majorly in tertiary institutions.
 
+[Frontstack](https://twitter.com/frontstackio/)        |    [@ireaderinokun](https://twitter.com/ireaderinokun)     | 4 | Frontstack is a community to help more developers build skills in Frontend Engineering.
+
 ### Programming Languages and Technologies
 
 Community | Manager | Members | Description
