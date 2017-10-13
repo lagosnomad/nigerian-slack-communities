@@ -41,6 +41,10 @@ Community | Manager | Members | Description
 [Flutterwave Developers](http://bit.ly/2yRh01e)  |    [@mo 👵](https://twitter.com/dupsyturvy)         | 682 | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
 [Paystack Payslack](https://slack.paystack.com)       |  [@ibrahimlawal 💂](https://twitter.com/ibrahimlawal) | 794 | A community for businesses integrating financial technology solutions using Paystack.
 
+### University Communities
+Community | Manager | Members | Description
+----------|---------|---------| ------------
+[BellsUniversity Developers](http://bit.ly/2zmfaGz)  |    [@Nottherealilest](http://bit.ly/2ggw3xX)         | 68 | The Bells Developer Community was created to build an environment for developers in and around environs of the school to work together, solve problems,get introduced to new technologies and opportunities
 
 
 
