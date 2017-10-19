@@ -46,7 +46,10 @@ Community | Manager | Members | Description
 ----------|---------|---------| ------------
 [BellsUniversity Developers](http://bit.ly/2zmfaGz)  |    [@Nottherealilest](http://bit.ly/2ggw3xX)         | 68 | The Bells Developer Community was created to build an environment for developers in and around environs of the school to work together, solve problems,get introduced to new technologies and opportunities
 
-
+### Creative Tech community
+Community | Manager | Members | Description
+ ----------|---------|---------| ------------
+[SENPAI Collective](https://www.instagram.com/think.senpai/) | [@senpai](https://www.instagram.com/think.senpai/) | 184 +| A community of passionate creatives, using technology to create businesses, brands, and experiences of the future
 
 
 
