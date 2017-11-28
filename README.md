@@ -39,6 +39,7 @@ Community | Manager | Members | Description
 ----------|---------|---------| ------------
 [Flutterwave Developers](https://rebrand.ly/JoinFlutterwaveSlack)  |    [@mo 👵](https://twitter.com/dupsyturvy)         | 710+ | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
 [Paystack Payslack](https://slack.paystack.com)       |  [@ibrahimlawal 💂](https://twitter.com/ibrahimlawal) | 794 | A community for businesses integrating financial technology solutions using Paystack.
+[Africa's Talking](https://slackin-africastalking.now.sh)       |  [@StephenAfamO 💂](https://twitter.com/StephenAfamO) | 0 | A community of developers interested in using Africa's Talking Api's to accept payment.
 
 ### University Communities
 Community | Manager | Members | Description
