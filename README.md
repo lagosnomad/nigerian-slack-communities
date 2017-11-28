@@ -30,7 +30,7 @@ Community | Manager | Members | Description
 [Python Nigeria](https://py-slack-invite.herokuapp.com/)         |    [@acetakwas 👨](https://twitter.com/acetakwas)     | 876 | A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria and environs. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
 [Laravel Nigeria](https://www.laravelnigeria.com/)             |    [@neoighodaro](https://twitter.com/neoighodaro)    | 280+ | A community of PHP and Laravel developers.
 [Angular Nigeria](https://twitter.com/ngnigeria)        |    [@codebeast](https://twitter.com/codebeast)     | 189 | Nigeria's largest Angular community.
-[Lagos Scala](https://www.meetup.com/lagosscala/) | [@Idarlington](@https://twitter.com/Idarlington) | 559+ | Nigerian Scala Community
+[Lagos Scala](https://www.meetup.com/lagosscala/) | [@Idarlington](https://twitter.com/Idarlington) | 559+ | Nigerian Scala Community
 
 
 ### Companies
@@ -39,7 +39,7 @@ Community | Manager | Members | Description
 ----------|---------|---------| ------------
 [Flutterwave Developers](https://rebrand.ly/JoinFlutterwaveSlack)  |    [@mo 👵](https://twitter.com/dupsyturvy)         | 710+ | The Flutterwave Developer Community was created to build an environment for developers to work together, solve problems, implement ideas and create solutions that will add value on a deeper level. There's a forum [here too](http://bit.ly/2yRh01e)
 [Paystack Payslack](https://slack.paystack.com)       |  [@ibrahimlawal 💂](https://twitter.com/ibrahimlawal) | 794 | A community for businesses integrating financial technology solutions using Paystack.
-[Africa's Talking](https://slackin-africastalking.now.sh)       |  [@StephenAfamO 💂](https://twitter.com/StephenAfamO) | 0 | A community of developers interested in using Africa's Talking Api's to accept payment.
+[Africa's Talking](https://slackin-africastalking.now.sh)       |  [@StephenAfamO](https://twitter.com/StephenAfamO) | 0 | A community of developers interested in using Africa's Talking Api's to accept payment.
 
 ### University Communities
 Community | Manager | Members | Description
